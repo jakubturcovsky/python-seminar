@@ -1,0 +1,2 @@
+# python-seminar
+Python seminar
